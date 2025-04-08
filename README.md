@@ -3,3 +3,4 @@ This repository maps out the progress and roadmap I took to learn quantitative f
 
 Week One:
 Focus on learning Python for finance. Learning numpy, pandas, and matplotlib. Also, using yfinance, Yahoo Finance's API to access real-time stock data.
+Using the book, Python for Finance by Yves Hilpisch.
